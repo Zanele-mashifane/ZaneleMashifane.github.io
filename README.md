@@ -36,4 +36,15 @@ Participated in a cybersecurity competition focused on identifying vulnerabiliti
 Designed and simulated a network using Cisco Packet Tracer.
 
 ## MOCK VIDEO INTERVIEW
-[watch my presentation video](
+
+
+
+
+
+
+
+
+
+
+
+
