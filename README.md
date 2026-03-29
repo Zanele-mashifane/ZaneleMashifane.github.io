@@ -15,14 +15,14 @@ Diploma in ICT networking
 2024-Present
 
 ## TECHNICAL SKILLS
-###Networking
+### Networking
 -[X] IP ADDRESSING
 -[X] SUBNETTING
 -[X] LAN AND WAN
 -[X] VLAN CONFIGURATION
 -[X] NETWORK TOPOLOGY DESIGN
 -[X] NETWORK TROUBLESHOOTING
-###Programming
+### Programming
 -[x] HTML,CSS,JAVASCRIPT,SQL
 
 ## PROJECTS
@@ -31,9 +31,9 @@ Diploma in ICT networking
 **Describition:**
 Participated in a cybersecurity competition focused on identifying vulnerabilities and solving security challenges.
 
-###Network Simulation (Cisco Packet Tracer)
+### Network Simulation (Cisco Packet Tracer)
 **Description:**
 Designed and simulated a network using Cisco Packet Tracer.
 
-##MOCK VIDEO INTERVIEW
+## MOCK VIDEO INTERVIEW
 [watch my presentation video](
