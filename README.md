@@ -37,10 +37,13 @@ Participated in a cybersecurity competition focused on identifying vulnerabiliti
 Designed and simulated a network using Cisco Packet Tracer.
 
 ## MOCK VIDEO INTERVIEW
+
 **first Question**
 https://github.com/user-attachments/assets/37462b75-74ac-4eba-9239-6aea5abaf117
+
 **second Question**
 https://github.com/user-attachments/assets/848f6f37-5efb-432c-867f-147df9b4e977
+
 **third and last Question**
 https://github.com/user-attachments/assets/663c43a3-05bb-45b5-aadd-0953c3f40459
 
