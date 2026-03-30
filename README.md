@@ -1,3 +1,4 @@
+
 # Zanele Mashifane 
 ### My Final-year ICT Networking stend at Cape Peninsula university of Technology 
 ## ABOUT ME
@@ -44,6 +45,8 @@ https://github.com/user-attachments/assets/848f6f37-5efb-432c-867f-147df9b4e977
 https://github.com/user-attachments/assets/663c43a3-05bb-45b5-aadd-0953c3f40459
 
 ## CV DOCUMENT
+[CV document .pdf](https://github.com/user-attachments/files/26358803/CV.document.pdf)
+
 
 
 
