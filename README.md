@@ -1,4 +1,4 @@
-# ZaneleMashifane.github.io
+# Zanele Mashifane 
 ### My Final-year ICT Networking stend at Cape Peninsula university of Technology 
 ## ABOUT ME
 I am a**Final-year ICT  networking student** at the **Cape Peninsula university of Technology**.
