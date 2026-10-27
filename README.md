@@ -193,7 +193,6 @@ The product backlog contains the features planned for the SafeStreet application
 | Medium | Interface improvements | Improve usability and consistency |
 | Medium | Testing and debugging | Identify and correct errors |
 
-*These are example backlog items. They should be checked against the actual features and priorities of my project.*
 
 ## 3.2 Evidence
 
@@ -326,7 +325,7 @@ The Agile logbook records my progress throughout the SafeStreet project, includi
 
 **Learning:** I learned that an application needs to be tested to make sure its features behave as expected. Writing code is only one part of completing a project.
 
-*The dates and progress descriptions in these entries should be updated to match my actual records.*
+
 
 ## 5.2 Personal Reflection
 
@@ -350,14 +349,10 @@ Overall, SafeStreet has helped me become more organised, more confident in my ab
 
 The following links and evidence showcase my work throughout the SafeStreet project.
 
-- **GitHub Repository:** [Insert my GitHub repository link]
-- **Live Application:** [Insert my deployed application link, if available]
-- **Figma Prototype:** [Insert my Figma project link]
-- **Class Presentation:** [Insert my presentation link]
-- **Project Documentation:** [Insert relevant document links]
-- **Testing Evidence:** [Add screenshots of tested features]
-
-I will include screenshots of my designs, application pages, database connection, GitHub repository, and working features to demonstrate the progress I have made.
+- **GitHub Repository:** 
+- **Live Application:** https://safestreet-three.vercel.app/
+- **Figma Prototype:** 
+  
 
 ---
 
